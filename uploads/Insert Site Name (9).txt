@@ -1,0 +1,1 @@
+Insert Site Name;111111;222222;333333;IFR;(initials);;123 EveryLane Drive;Anytown USA;39.0000;128.0000;;;;;;Enter;Enter Scope Bullet 1;Enter Scope Bullet 2;Enter Scope Bullet 3;Enter Scope Bullet 4;Enter Scope Bullet 5;test1;A150;;;;;;;;;;;Gr B;3/8";test2;A150;;;;;;;;;;;Gr B;3/8";;A150;;;;;;;;;;;Gr B;3/8";;A150;;;;;;;;;;;Gr B;3/8";;A150;;;;;;;;;;;Gr B;3/8";

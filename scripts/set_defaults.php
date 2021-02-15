@@ -1,0 +1,101 @@
+<?php 
+
+	$Site_Name = "Insert Site Name";
+	$Comm_Work_Ord = "111111";
+	$Const_Work_Ord = "222222";
+	$EN_Proj_Num = "333333";
+	$Rev = "IFR";
+	$Prep_By = "(initials)";
+	$Date1 = "";
+	$Street_Add = "123 EveryLane Drive";
+	$City = "Anytown USA";
+	$Lat = "39.0000";
+	$Long = "128.0000";
+	$Section = "";
+	$Township = "";
+	$Range = "";
+	$Division = "";
+	$County = "";
+	$Scope = "Enter Scope";
+	$ScopeB1 = "Enter Scope Bullet 1";
+	$ScopeB2 = "Enter Scope Bullet 2";
+	$ScopeB3 = "Enter Scope Bullet 3";
+	$ScopeB4 = "Enter Scope Bullet 4";
+	$ScopeB5 = "Enter Scope Bullet 5";
+  
+  $Valve_1_VT = "";
+  $Valve_1_AC = "";
+  $Valve_1_Size = "";
+  $Valve_1_Man = "";
+  $Valve_1_Model = "";
+  $Valve_1_Serial = "";
+  $Valve_1_MDP = "";
+  $Valve_1_TR = "";
+  $Valve_1_MWS = "";
+  $Valve_1_BAM = "";
+  $Valve_1_PLMAOP = "";
+  $Valve_1_PLDP = "";
+  $Valve_1_Pipe_Grade = "";
+  $Valve_1_TS = "";
+
+  $Valve_2_VT =  "";
+  $Valve_2_AC =  "";
+  $Valve_2_Size =  "";
+  $Valve_2_Man =  "";
+  $Valve_2_Model =  "";
+  $Valve_2_Serial =  "";
+  $Valve_2_MDP =  "";
+  $Valve_2_TR =  "";
+  $Valve_2_MWS =  "";
+  $Valve_2_BAM =  "";
+  $Valve_2_PLMAOP =  "";
+  $Valve_2_PLDP =  "";
+  $Valve_2_Pipe_Grade =  "";
+  $Valve_2_TS =  "";
+ 
+  $Valve_3_VT =  "";
+  $Valve_3_AC =  "";
+  $Valve_3_Size = "";
+  $Valve_3_Man =  "";
+  $Valve_3_Model =  "";
+  $Valve_3_Serial =  "";
+  $Valve_3_MDP =  "";
+  $Valve_3_TR =  "";
+  $Valve_3_MWS = "";
+  $Valve_3_BAM = "";
+  $Valve_3_PLMAOP = "";
+  $Valve_3_PLDP = "";
+  $Valve_3_Pipe_Grade = "";
+  $Valve_3_TS = "";
+
+  $Valve_4_VT = "";
+  $Valve_4_AC = "";
+  $Valve_4_Size = "";
+  $Valve_4_Man = "";
+  $Valve_4_Model =  "";
+  $Valve_4_Serial = "";
+  $Valve_4_MDP = "";
+  $Valve_4_TR = "";
+  $Valve_4_MWS = "";
+  $Valve_4_BAM = "";
+  $Valve_4_PLMAOP = "";
+  $Valve_4_PLDP =  "";
+  $Valve_4_Pipe_Grade = "";
+  $Valve_4_TS = "";
+
+  $Valve_5_VT = "";
+  $Valve_5_AC = "";
+  $Valve_5_Size = "";
+  $Valve_5_Man = "";
+  $Valve_5_Model = "";
+  $Valve_5_Serial = "";
+  $Valve_5_MDP = "";
+  $Valve_5_TR = "";
+  $Valve_5_MWS = "";
+  $Valve_5_BAM = "";
+  $Valve_5_PLMAOP =  "";
+  $Valve_5_PLDP =  "";
+  $Valve_5_Pipe_Grade = "";
+  $Valve_5_TS = "";
+
+?>

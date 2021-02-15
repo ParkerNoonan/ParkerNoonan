@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+	<script type="text/javascript">
+		
+		function main() {
+			window.requestAnimationFrame( main );
+			var d = new Date();
+			var n = d.getMilliseconds();
+			console.log(n);
+			document.getElementById("test").innerHTML = n;
+		};
+
+		main();
+
+	</script>
+
+	<p id="test"></p>
+
+</body>
+</html>
